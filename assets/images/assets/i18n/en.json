@@ -1,0 +1,50 @@
+{
+    "aboutme": {
+        "title": "About Me",
+        "about1": "Web Designer with 15 years of experience in Design (UI) and Development (Front-End) of Web portals. Throughout my career I have worked with brands such as CEMEX, TOYOTA, ITESM, UDEM, CABLEVISION, izzi Telecom, Tigres UANL, Grupo Xignux, C.F. Monterrey, envios.com and others.",
+        "about2": "Features, User Flows and Contents. User Experience, Prototypes, Graphic Design, Front-end Development in Web Applications for Corporate Websites.",
+        "title2": "Experience",
+        "experience1": "Development, Design and Operation of the Main Portal DINEX Envíos.",
+        "experience2": "Front-End Development and Improvements to the Envios.com Portal Developed in Angular.",
+        "experience3": "Support for the Department of Business Development in e-mail Campaigns and Landing Pages.",
+        "experience4": "Websites Operation and Landing Pages Development.",
+        "experience5": "Templates Design for email Marketing.",
+        "experience6": "Landing Pages Development.",
+        "experience7": "Operation of the WiFi advertising Portal of the BBVA Rayados Stadium.",
+        "experience8": "Operation and usability improvements to the CABLEVISION Portal with Oracle Web Center Sites.",
+        "experience9": "Redesign, Front-end coding and operation of FastForward and TELUM portals.",
+        "experience10": "Design and Layout for Microsites and Responsive Web Applications with Frameworks such as Foundation and Bootstrap.",
+        "experience11": "Design and Operation of CEMEX's Portals",
+        "experience12": "Design of the TIGRES UANL Portal.",
+        "experience13": "Operation of the UDEM Portal with Microsoft SharePoint.",
+        "experience14": "UI Design for the TOYOTA Training Portal."
+    },
+    "header": {
+        "about": "ABOUT",
+        "skills": "SKILLS",
+        "labs": "LABS",
+        "blog": "BLOG",
+        "contact": "CONTACT",
+        "temp1": "Feels Like",
+        "temp2": "Humidity"
+    },
+    "skills": {
+        "title": "Skills Set"
+    },
+    "labs": {
+        "title": "Labs",
+        "labs1": "Cryptocurrency Prices",
+        "labs2": "Webcam A.I."
+    },
+    "footer": {
+        "footer1": "Made with ",
+        "footer2": "and "
+    },
+    "contact": {
+        "title": "Contact",
+        "contact1": "Name",
+        "contact2": "Email",
+        "contact3": "Message",
+        "contact4": "Send"
+    }
+}

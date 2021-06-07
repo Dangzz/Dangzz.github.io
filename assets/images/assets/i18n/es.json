@@ -1,0 +1,50 @@
+{
+    "aboutme": {
+        "title": "Extracto",
+        "about1": "Diseñador Web con 15 años de experiencia en el Diseño y Desarrollo de portales Web. A traves de mi carrera he trabajado con marcas como CEMEX, TOYOTA, ITESM, UDEM, CABLEVISION, izzi Telecom,Tigres UANL, Grupo Xignux, C.F. Monterrey, envios.com y otras.",
+        "about2": "Definir Características, Flujos de Usuarios y Contenidos. Investigación, Conceptualización, Diseño Gráfico, Codificación del Front-end en Aplicaciones Web para Sitios Corporativos.",
+        "title2": "Experiencia",
+        "experience1": "Encargado del Desarrollo, Diseño y Operación del portal principal DINEX Envíos.",
+        "experience2": "Desarrollo Front-End y mejoras al portal de Envios.com Desarrollado en Angular.",
+        "experience3": "Apoyo al departamento de Desarrollo de Negocios en las Campañas de e-mail Marketing y Landing Pages.",
+        "experience4": "Operación de Portales y Desarrollo de Micrositios.",
+        "experience5": "Diseño de Templates para email.",
+        "experience6": "Desarrollo de Landing Pages.",
+        "experience7": "Operación del Portal publicitario WiFi del estadio BBVA Rayados.",
+        "experience8": "Operación y mejoras de Usabilidad al Portal de CABLEVISION con Oracle Web Center Sites.",
+        "experience9": "Rediseño, codificación del Front-end y Operación de los Portales FastForward y TELUM.",
+        "experience10": "Diseño y Maquetación para Micrositios y Aplicaciones Web Responsivas con Frameworks como Foundation y Bootstrap.",
+        "experience11": "Diseño y Operación de los Portales CEMEX a nivel global.",
+        "experience12": "Diseño del Portal TIGRES UANL.",
+        "experience13": "Operación del Portal de UDEM con Microsoft SharePoint.",
+        "experience14": "Diseño de UI para el Portal de Entrenamiento TOYOTA."
+    },
+    "header": {
+        "about": "ACERCA",
+        "skills": "HABILIDADES",
+        "labs": "EJEMPLOS",
+        "blog": "BLOG",
+        "contact": "CONTACTO",
+        "temp1": "Sensación Térmica",
+        "temp2": "Humedad"
+    },
+    "skills": {
+        "title": "Habilidades"
+    },
+    "labs": {
+        "title": "Ejemplos",
+        "labs1": "Precios de las Criptomonedas",
+        "labs2": "Cámara Web I.A."
+    },
+    "footer": {
+        "footer1": "Desarrollado con ",
+        "footer2": "y "
+    },
+    "contact": {
+        "title": "Contacto",
+        "contact1": "Nombre",
+        "contact2": "Email",
+        "contact3": "Mensaje",
+        "contact4": "Enviar"
+    }
+}
