@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/dags/Desktop/portfolio/src/polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! C:\Users\Daniel Gzz\Desktop\DEV\dangzz\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
