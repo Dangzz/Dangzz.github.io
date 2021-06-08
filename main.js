@@ -1681,7 +1681,7 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](5);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("translocoRead", "footer");
-    } }, directives: [_ngneat_transloco__WEBPACK_IMPORTED_MODULE_1__["TranslocoDirective"]], styles: ["@media (max-width: 768px) {\n  .fot2[_ngcontent-%COMP%] {\n    font-size: 12px;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uXFwuLlxcLi5cXGZvb3Rlci5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQztFQUNJO0lBQ0ksZUFBQTtFQUNQO0FBQ0YiLCJmaWxlIjoiZm9vdGVyLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiIEBtZWRpYSAobWF4LXdpZHRoOiA3NjhweCkge1xyXG4gICAgIC5mb3QyIHtcclxuICAgICAgICAgZm9udC1zaXplOiAxMnB4O1xyXG4gICAgIH1cclxuIH0iXX0= */"] });
+    } }, directives: [_ngneat_transloco__WEBPACK_IMPORTED_MODULE_1__["TranslocoDirective"]], styles: ["@media (max-width: 768px) {\n  .fot2[_ngcontent-%COMP%] {\n    font-size: 11px !important;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uXFwuLlxcLi5cXGZvb3Rlci5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQztFQUNJO0lBQ0ksMEJBQUE7RUFDUDtBQUNGIiwiZmlsZSI6ImZvb3Rlci5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIiBAbWVkaWEgKG1heC13aWR0aDogNzY4cHgpIHtcclxuICAgICAuZm90MiB7XHJcbiAgICAgICAgIGZvbnQtc2l6ZTogMTFweCAhaW1wb3J0YW50O1xyXG4gICAgIH1cclxuIH0iXX0= */"] });
 
 
 /***/ }),
