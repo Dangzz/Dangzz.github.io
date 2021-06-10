@@ -929,25 +929,27 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AppModule", function() { return AppModule; });
 /* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/platform-browser */ "jhN1");
 /* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/common/http */ "tk/3");
-/* harmony import */ var _app_routing_module__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./app-routing.module */ "vY5A");
-/* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./app.component */ "Sy1n");
-/* harmony import */ var _intro_intro_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./intro/intro.component */ "drGS");
-/* harmony import */ var _menu_menu_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./menu/menu.component */ "TGkX");
-/* harmony import */ var _footer_footer_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./footer/footer.component */ "fp1T");
-/* harmony import */ var _about_about_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./about/about.component */ "84zG");
-/* harmony import */ var _header_header_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./header/header.component */ "fECr");
-/* harmony import */ var _contact_contact_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./contact/contact.component */ "bzTf");
-/* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! @angular/forms */ "3Pt+");
-/* harmony import */ var _skills_skills_component__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./skills/skills.component */ "fGbd");
-/* harmony import */ var _data_crypto_service__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./data-crypto.service */ "KVi4");
-/* harmony import */ var _cryptodata_cryptodata_component__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./cryptodata/cryptodata.component */ "259h");
-/* harmony import */ var _loading_loading_component__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./loading/loading.component */ "f/hT");
-/* harmony import */ var _blog_blog_component__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./blog/blog.component */ "LgBW");
-/* harmony import */ var _labs_labs_component__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./labs/labs.component */ "UBb+");
-/* harmony import */ var _transloco_transloco_root_module__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./transloco/transloco-root.module */ "b3Gb");
-/* harmony import */ var _blog_ngx_device_detector_ngx_device_detector_component__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./blog/ngx-device-detector/ngx-device-detector.component */ "t70Q");
-/* harmony import */ var _image_classifier_image_classifier_component__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./image-classifier/image-classifier.component */ "gdL9");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! @angular/core */ "fXoL");
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/common */ "ofXK");
+/* harmony import */ var _app_routing_module__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./app-routing.module */ "vY5A");
+/* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./app.component */ "Sy1n");
+/* harmony import */ var _intro_intro_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./intro/intro.component */ "drGS");
+/* harmony import */ var _menu_menu_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./menu/menu.component */ "TGkX");
+/* harmony import */ var _footer_footer_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./footer/footer.component */ "fp1T");
+/* harmony import */ var _about_about_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./about/about.component */ "84zG");
+/* harmony import */ var _header_header_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./header/header.component */ "fECr");
+/* harmony import */ var _contact_contact_component__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./contact/contact.component */ "bzTf");
+/* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! @angular/forms */ "3Pt+");
+/* harmony import */ var _skills_skills_component__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./skills/skills.component */ "fGbd");
+/* harmony import */ var _data_crypto_service__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./data-crypto.service */ "KVi4");
+/* harmony import */ var _cryptodata_cryptodata_component__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./cryptodata/cryptodata.component */ "259h");
+/* harmony import */ var _loading_loading_component__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./loading/loading.component */ "f/hT");
+/* harmony import */ var _blog_blog_component__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./blog/blog.component */ "LgBW");
+/* harmony import */ var _labs_labs_component__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./labs/labs.component */ "UBb+");
+/* harmony import */ var _transloco_transloco_root_module__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./transloco/transloco-root.module */ "b3Gb");
+/* harmony import */ var _blog_ngx_device_detector_ngx_device_detector_component__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./blog/ngx-device-detector/ngx-device-detector.component */ "t70Q");
+/* harmony import */ var _image_classifier_image_classifier_component__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./image-classifier/image-classifier.component */ "gdL9");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! @angular/core */ "fXoL");
+
 
 
 
@@ -972,32 +974,32 @@ __webpack_require__.r(__webpack_exports__);
 class AppModule {
 }
 AppModule.ɵfac = function AppModule_Factory(t) { return new (t || AppModule)(); };
-AppModule.ɵmod = _angular_core__WEBPACK_IMPORTED_MODULE_20__["ɵɵdefineNgModule"]({ type: AppModule, bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_3__["AppComponent"]] });
-AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_20__["ɵɵdefineInjector"]({ providers: [_data_crypto_service__WEBPACK_IMPORTED_MODULE_12__["DataCryptoService"]], imports: [[
+AppModule.ɵmod = _angular_core__WEBPACK_IMPORTED_MODULE_21__["ɵɵdefineNgModule"]({ type: AppModule, bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"]] });
+AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_21__["ɵɵdefineInjector"]({ providers: [_data_crypto_service__WEBPACK_IMPORTED_MODULE_13__["DataCryptoService"], { provide: _angular_common__WEBPACK_IMPORTED_MODULE_2__["LocationStrategy"], useClass: _angular_common__WEBPACK_IMPORTED_MODULE_2__["HashLocationStrategy"] }], imports: [[
             _angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"],
-            _app_routing_module__WEBPACK_IMPORTED_MODULE_2__["AppRoutingModule"],
-            _angular_forms__WEBPACK_IMPORTED_MODULE_10__["FormsModule"],
+            _app_routing_module__WEBPACK_IMPORTED_MODULE_3__["AppRoutingModule"],
+            _angular_forms__WEBPACK_IMPORTED_MODULE_11__["FormsModule"],
             _angular_common_http__WEBPACK_IMPORTED_MODULE_1__["HttpClientModule"],
-            _transloco_transloco_root_module__WEBPACK_IMPORTED_MODULE_17__["TranslocoRootModule"]
+            _transloco_transloco_root_module__WEBPACK_IMPORTED_MODULE_18__["TranslocoRootModule"]
         ]] });
-(function () { (typeof ngJitMode === "undefined" || ngJitMode) && _angular_core__WEBPACK_IMPORTED_MODULE_20__["ɵɵsetNgModuleScope"](AppModule, { declarations: [_app_component__WEBPACK_IMPORTED_MODULE_3__["AppComponent"],
-        _intro_intro_component__WEBPACK_IMPORTED_MODULE_4__["IntroComponent"],
-        _menu_menu_component__WEBPACK_IMPORTED_MODULE_5__["MenuComponent"],
-        _footer_footer_component__WEBPACK_IMPORTED_MODULE_6__["FooterComponent"],
-        _about_about_component__WEBPACK_IMPORTED_MODULE_7__["AboutComponent"],
-        _header_header_component__WEBPACK_IMPORTED_MODULE_8__["HeaderComponent"],
-        _contact_contact_component__WEBPACK_IMPORTED_MODULE_9__["ContactComponent"],
-        _skills_skills_component__WEBPACK_IMPORTED_MODULE_11__["SkillsComponent"],
-        _cryptodata_cryptodata_component__WEBPACK_IMPORTED_MODULE_13__["CryptodataComponent"],
-        _loading_loading_component__WEBPACK_IMPORTED_MODULE_14__["LoadingComponent"],
-        _blog_blog_component__WEBPACK_IMPORTED_MODULE_15__["BlogComponent"],
-        _labs_labs_component__WEBPACK_IMPORTED_MODULE_16__["LabsComponent"],
-        _blog_ngx_device_detector_ngx_device_detector_component__WEBPACK_IMPORTED_MODULE_18__["NgxDeviceDetectorComponent"],
-        _image_classifier_image_classifier_component__WEBPACK_IMPORTED_MODULE_19__["ImageClassifierComponent"]], imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"],
-        _app_routing_module__WEBPACK_IMPORTED_MODULE_2__["AppRoutingModule"],
-        _angular_forms__WEBPACK_IMPORTED_MODULE_10__["FormsModule"],
+(function () { (typeof ngJitMode === "undefined" || ngJitMode) && _angular_core__WEBPACK_IMPORTED_MODULE_21__["ɵɵsetNgModuleScope"](AppModule, { declarations: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"],
+        _intro_intro_component__WEBPACK_IMPORTED_MODULE_5__["IntroComponent"],
+        _menu_menu_component__WEBPACK_IMPORTED_MODULE_6__["MenuComponent"],
+        _footer_footer_component__WEBPACK_IMPORTED_MODULE_7__["FooterComponent"],
+        _about_about_component__WEBPACK_IMPORTED_MODULE_8__["AboutComponent"],
+        _header_header_component__WEBPACK_IMPORTED_MODULE_9__["HeaderComponent"],
+        _contact_contact_component__WEBPACK_IMPORTED_MODULE_10__["ContactComponent"],
+        _skills_skills_component__WEBPACK_IMPORTED_MODULE_12__["SkillsComponent"],
+        _cryptodata_cryptodata_component__WEBPACK_IMPORTED_MODULE_14__["CryptodataComponent"],
+        _loading_loading_component__WEBPACK_IMPORTED_MODULE_15__["LoadingComponent"],
+        _blog_blog_component__WEBPACK_IMPORTED_MODULE_16__["BlogComponent"],
+        _labs_labs_component__WEBPACK_IMPORTED_MODULE_17__["LabsComponent"],
+        _blog_ngx_device_detector_ngx_device_detector_component__WEBPACK_IMPORTED_MODULE_19__["NgxDeviceDetectorComponent"],
+        _image_classifier_image_classifier_component__WEBPACK_IMPORTED_MODULE_20__["ImageClassifierComponent"]], imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"],
+        _app_routing_module__WEBPACK_IMPORTED_MODULE_3__["AppRoutingModule"],
+        _angular_forms__WEBPACK_IMPORTED_MODULE_11__["FormsModule"],
         _angular_common_http__WEBPACK_IMPORTED_MODULE_1__["HttpClientModule"],
-        _transloco_transloco_root_module__WEBPACK_IMPORTED_MODULE_17__["TranslocoRootModule"]] }); })();
+        _transloco_transloco_root_module__WEBPACK_IMPORTED_MODULE_18__["TranslocoRootModule"]] }); })();
 
 
 /***/ }),
